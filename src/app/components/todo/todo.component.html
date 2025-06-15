@@ -1,0 +1,14 @@
+<h2>📝 Meine Aufgaben </h2>
+
+<input [(ngModel)]="newTodo" placeholder="Neue Aufgabe..." />
+<button (click)="addTodo()">➕ Hinzufügen</button>
+
+<ul>
+    <li *ngFor="let todo of todos">
+        <input type="checkbox" [checked]="todo.completed" (change)="toggleTodo(todo.id)" />
+        <span [style.textDecoration]="todo.completed ? 'line-through' : 'none'">
+            {{ todo.title }}
+        </span>
+        <button (click)="deleteTodo(todo.id)">🗑️</button>
+    </li>
+</ul>
