@@ -28,3 +28,8 @@ git clone https://github.com/MarcelBerlin/angular-todo-app.git
 cd angular-todo-app
 npm install
 ng serve
+
+
+
+## 📸 Vorschau 
+![Screenshot der Anwendung](screenshot.png)
