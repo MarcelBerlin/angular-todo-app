@@ -21,6 +21,12 @@ Ziel: Wiederholung von Angular-Grundlagen wie Komponenten, Services, Datenbindun
 
 ---
 
+## 📸 Vorschau 
+
+![Screenshot](Screenshot.png)
+
+---
+
 ## 📦 Projekt starten (lokal)
 
 ```bash
@@ -31,6 +37,3 @@ ng serve
 
 ---
 
-## 📸 Vorschau 
-
-![Screenshot](Screenshot.png)
