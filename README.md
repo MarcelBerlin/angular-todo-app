@@ -33,4 +33,4 @@ ng serve
 
 ## 📸 Vorschau 
 
-![Screenshot der Anwendung](src/assets/screenshots/Screenshot.png)
+![Screenshot](Screenshot.png)
