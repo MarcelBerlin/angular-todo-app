@@ -29,7 +29,8 @@ cd angular-todo-app
 npm install
 ng serve
 
-
+---
 
 ## 📸 Vorschau 
+
 ![Screenshot der Anwendung](src/assets/screenshots/Screenshot.png)
